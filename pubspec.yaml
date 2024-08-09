@@ -1,7 +1,7 @@
 name: zoom_lens
 description: "Zoom Lens"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Seshubhai96/Zoom_Lens
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
